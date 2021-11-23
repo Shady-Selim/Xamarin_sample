@@ -17,4 +17,4 @@ It was a very challenging project, and to be frank, I didn't like the experience
  - Shortline, for a tool promised to save time and share 80% of the code, that wasn't true
 
 ## :camera_flash: Screenshots
-<img src="/xamarin_android.gif" width="300">&emsp;<img src="/xamarin.png" width="600">
+<img src="/xamarin.png" width="600">&emsp;<img src="/xamarin_android.gif" width="300">
